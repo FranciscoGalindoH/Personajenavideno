@@ -41,6 +41,14 @@ Crear un proyecto  interactivo en el cual interactue y que celebre la historia d
   
 - Comunicación de Sensores:
   Sensores y captura de datos: Utiliza sensores para recopilar información, como la detección de movimiento, la luz ambiente, la temperatura, etc., y comunica estos datos a un   sistema central para su procesamiento y visualización.
+
+  ## Tabla de historias de usuario
+| Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
+|----|---------------------|-----------|------------|---------------|-------------|
+|  1  |En nuetro trabajaremos en este proyecto preferido para el finde lograr una espectatiba de cada uno de los trabajos de otros equipos y asi lograr tener unatematica de navidad mas esperada                |      Alta     |    |    Al tener correcto la programacion de nuestro articulo probarlo para que este a vista de los de mas           |         Nosotros como equipo que seremos a la hora de comenzar a crear este proceso    |
+| 2   |Como creador de este nuestro proyevto de esta estrella que tendra algunos cambios de luces y esperar que los espectadores llenen sus espectativas|Alta|  |   Los trabajadores ya que habra parte que uno solo se encargara de una cosa   |
+|   3 |Como publico yo espero tener una muy buena inprecion de lo que esta en ecena y al encenderlo sea tal y como se planeo|Alta||Tener bien estructurado nuestro codigo y nuestros componentes en buen estado y no halla alguna falla| Checar y hacer que funcione perferctamente antes de exponerlo|Todo el eqipo que esta conformado al crear este proyecto  |
+
 ## Prototipo del dibujo
 Cargar imagen acerca del proyecto realizado en libre (boceto)
 ## Arquitectura
