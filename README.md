@@ -50,9 +50,19 @@ Crear un proyecto  interactivo en el cual interactue y que celebre la historia d
 |   3 |Como publico yo espero tener una muy buena inprecion de lo que esta en ecena y al encenderlo sea tal y como se planeo|Alta||Tener bien estructurado nuestro codigo y nuestros componentes en buen estado y no halla alguna falla| Checar y hacer que funcione perferctamente antes de exponerlo|Todo el eqipo que esta conformado al crear este proyecto  |
 
 ## Prototipo del dibujo
-Cargar imagen acerca del proyecto realizado en libre (boceto)
+![Boceto aun no totalmente terminad](https://scontent.xx.fbcdn.net/v/t1.15752-9/394302260_983850252683247_2753994314403906290_n.jpg?stp=dst-jpg_s280x280&_nc_cat=104&ccb=1-7&_nc_sid=510075&_nc_ohc=_1HFemKO8roAX-tmJZK&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQhnhKSSPdvCYQYFtdGWLmt6_VEUO5EHSCudiu_oih7KA&oe=65599689)
+
+- Con este boceto me doy a endender que lo que tratare de hacer es una pequeña casa donde por la parte superior logrr subir una estrella arriba de la casa por medio de algunas cosas recicldas como si fuera una bandera pero en este caso seria la estrella que aparecera de repende encendera y alusara basicamente, es un pequeño boceto de lo que mi equipo y yo trataremos y lograremos hacer
+
+
 ## Arquitectura
-Imagen que contiene los componentes de nuestro micocontrolador, los actuadores, sensores, y el acceso que tendremos a los datos
+![Sendores,placas](https://scontent.fcyw4-1.fna.fbcdn.net/v/t1.15752-9/394663211_1712811342533893_8460853779309936965_n.jpg?stp=dst-jpg_s261x260&_nc_cat=106&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=Pd5h62RdtU4AX-lfgtt&_nc_ht=scontent.fcyw4-1.fna&oh=03_AdTSXBohMI2o9Z4kjIZB_aQFwFCFDxcNz29qrv8TJZdsyA&oe=65597BD0)
+
+- Aqui esta algo de lo que vamos a usar para esta ocacion faltan aun cosas que en el momento iremos modificando y poniendo peroal momento es un poco del material que tenemos como lo es la placa  ESP32 sensores de luz,sonidoy movimiento
+
+
 ## Base de datos
-Escogeremos una base de datos mas conocida o mas utilizada para conectarnos ya sean las tablas 
+![motor de base de datos ](https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png)
+
+usaremos my sql que tal vez es la mas usada y poder conecctarlos y hacer  tablas de relacion lo que es un motor de base de datos muy faxible y un poco mas facil ya que es el que hemos utilizado uno comunmente
 
