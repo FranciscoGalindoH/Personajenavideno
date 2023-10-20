@@ -4,18 +4,14 @@ Estrella Belen
 ## Integrantes del Equipo
 - Juan Fancisco Galindo Hernadez
 - Josue Samuel Loyola Rodriguez
-## Materiales Utilizados
 
-| Nombre | Description |Cantidad|Precio|
-|---|---|---|---|
-|ESP32|Microcontrolador Wifi y Bluewtoo|1|$140.00|
-|Sensores|Hara que le de mas realidad a lo que estararemos creando|3| $250|
-|Papel,o caja reciclable| Nos evitara hacer y adornar el ecenario del proyecto y asi,para proteger y alojar los componentes y placas de desarrollo|5|$20|
-|Sensor de luz| Sensor de luz ambiente (LDR), led de colores, sensor de luz digital, etc.|5|$50|
-|Sensor de movimiento|Sensor PIR (Infrarrojos Pasivos), sensor ultrasónico, sensor de infrarrojos, etc.|1|$80|         
-|Sensor de sonido|Aqui con este mandaremos una alerta que esta en funcion nuetro proyecto|2|$250|
-|Cables conectores|Estos nos serviran para hacer la conexion adecuada|30|$60|
-|protoboard| Esta nos ayudara de mucho para las conexiones y hacerlas mas facilmente|2|$139|
+## Tabla de Software utilizado
+| Id | Software | Version | Tipo |
+|----|----------|---------|------|
+| 1   |Thony|4.1.2|Software|
+|  2  |Arduino ID|2.0|Software|
+|  3  |NODERED|3.1.0|Softwar|
+|4 | Visual Studio|1.1.2 |Software|
 
 ## Tabla con el hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
@@ -32,9 +28,19 @@ Estrella Belen
 
    
   
+## Objetivo general
+Crear un proyecto  interactivo en el cual interactue y que celebre la historia del Nacimiento del niño Jesús, destacando la Estrella de Belén como símbolo central, a través de la implementación de luces y sonido para transmitir un mensaje de paz y esperanza en la época navideña, y asi darnos cuenta que es una de las temporadas mas esperadas del año por todos los mexicanos
 
 ## Comunicacion
-Se comunicara a travez de una red wifi o ya sea por medio de bliuetoo el cual lanzara una senal para que haga lo optenido
+- Comunicación Inalámbrica:
+  Wifi: Puedes utilizar conexiones WiFi para controlar y recibir datos de tu proyecto desde un dispositivo móvil o una computadora.
+  Bluetooth: Para la comunicación a corta distancia y el control desde dispositivos móviles.
+
+- Comunicación Interactiva:
+  Comunicación con el usuario: Puedes incorporar interfaces de usuario, como botones, pantallas táctiles o comandos de voz, para permitir la interacción con tu proyecto.
+  
+- Comunicación de Sensores:
+  Sensores y captura de datos: Utiliza sensores para recopilar información, como la detección de movimiento, la luz ambiente, la temperatura, etc., y comunica estos datos a un   sistema central para su procesamiento y visualización.
 ## Prototipo del dibujo
 Cargar imagen acerca del proyecto realizado en libre (boceto)
 ## Arquitectura
